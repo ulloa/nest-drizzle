@@ -3,6 +3,7 @@ on:
   pull_request:
     branches:
       - main
+      - master
 env:
   node: 19.x
 jobs:
