@@ -1,4 +1,4 @@
-name: nest-drizzle CI
+name: nest-drizzle CI/CD
 on:
   pull_request:
     branches:
