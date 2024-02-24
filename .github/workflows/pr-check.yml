@@ -5,7 +5,7 @@ on:
       - main
       - master
 env:
-  node: 19.x
+  node: 20.x
 jobs:
   build:
     runs-on: ubuntu-latest
